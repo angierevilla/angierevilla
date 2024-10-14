@@ -1,5 +1,5 @@
 ## Hola, soy Angie 👋
-
+![Banner](https://www.canva.com/design/DAGTj4rdi_s/sD_YmxvTrinrJTSf3V2rCQ/view?utm_content=DAGTj4rdi_s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <!--
 **angierevilla/angierevilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
